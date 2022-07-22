@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+}
+
+.container {
+    background-color: #032830;
+    max-width: 500px;
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.mytext {
+    color: rgb(195, 195, 195);
+}
+
+.detail {
+    padding-top: 50px;
+    ;
+}
+
+.detail ul {
+    color: aliceblue;
+    font-size: 24px;
+    font-family: 'monteserat';
+}
